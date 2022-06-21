@@ -1,0 +1,9 @@
+{
+  "/about": "pages/about.html",
+  "/_error": "pages/_error.js",
+  "/contact": "pages/contact.html",
+  "/": "pages/index.html",
+  "/test_routing": "pages/test_routing.html",
+  "/projects": "pages/projects.html",
+  "/404": "pages/404.html"
+}

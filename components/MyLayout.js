@@ -31,7 +31,7 @@ const Layout = (props) => (
   			integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T"
   			crossOrigin="anonymous"
 		/>
-		   <script src="https://kit.fontawesome.com/36c1d4a9bc.js" crossorigin="anonymous"></script>
+		   <Script src="https://kit.fontawesome.com/36c1d4a9bc.js" crossorigin="anonymous"></Script>
 		   <Script
         src="https://cdnjs.cloudflare.com/ajax/libs/mixitup/3.3.1/mixitup.js"
         strategy="onload"
